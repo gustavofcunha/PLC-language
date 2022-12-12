@@ -1,0 +1,64 @@
+1. Symbol not found.
+2. Plc Checker: Type mismatch in function call.
+3. Plc Checker: Types in comparison are different.
+4. Plc Checker: Types in comparison are different.
+5. Plc Checker: Wrong return type in function.
+6. Plc Checker: 'if' branch types differ.
+7. Plc Checker: 'if' condition not Boolean.
+8. Plc Checker: no Match results.
+9. Plc Checker: 'match' result types differ.
+10. Plc Checker: 'match' condition types differ matching expressions's type.
+11. teval Call: not a function.
+12. Plc Checker: List index out of range.
+13. Plc Checker: Selection with operator # applied to non-list.
+14. Plc Interp: 'hd' empty sequence argument.
+15. Plc Interp: 'tl' empty sequence argument.
+16. Plc Interp: value not found in match.
+1. (SymbolNotFound): símbolo não permitido ou não encontrado.
+2. Plc Checker (CallTypesMisM): Type mismatch in function call.
+3. Plc Checker (NotEqTypes): Os tipos comparados são diferentes.
+4. Plc Checker (NotEqTypes): Os tipos comparados são diferentes.
+5. Plc Checker (WrongRetType): Tipo de retorno incorreto para função definida.
+6. Plc Checker (DiffBrTypes): Os tipos da expressões dos possíveis caminhos de 'if' divergem.
+7. Plc Checker (IfCondNotBool): A condição de 'if' não é booleana.
+8. Plc Checker (NoMatchResults): Não há resultados definidos para 'match'.
+9. Plc Checker (MatchResTypesDiff): Pelo menos um dos tipos dos casos de 'match' difere dos demais.
+10. Plc Checker (MatchCondTypesDiff): O tipo das opções de 'match' difere do tipo da expressão passada para Match
+11. teval Call (NotFunc): Você está tentando chamar algo que não é uma função.
+12. Plc Checker (ListOutOfRange): Tentativa de acessar um elemento fora dos limites da lista.
+13. Tentativa de acessar um elemento em uma expressão que não é uma lista.
+14. Plc Interp (HDEmptySeq): argumento para 'hd' é uma sequência vazia.
+15. Plc Interp (TLEmptySeq): argumento para 'tl' é uma sequência vazia.
+16. Plc Interp (ValueNotFoundInMatch): valor não encontrado em 'match'.
+1. (SymbolNotFound): símbolo não permitido ou não encontrado.
+2. Plc Checker (CallTypesMisM): Type mismatch in function call.
+3. Plc Checker (NotEqTypes): Os tipos comparados são diferentes.
+4. Plc Checker (NotEqTypes): Os tipos comparados são diferentes.
+5. Plc Checker (WrongRetType): Tipo de retorno incorreto para função definida.
+6. Plc Checker (DiffBrTypes): Os tipos da expressões dos possíveis caminhos de 'if' divergem.
+7. Plc Checker (IfCondNotBool): A condição de 'if' não é booleana.
+8. Plc Checker (NoMatchResults): Não há resultados definidos para 'match'.
+9. Plc Checker (MatchResTypesDiff): Pelo menos um dos tipos dos casos de 'match' difere dos demais.
+10. Plc Checker (MatchCondTypesDiff): O tipo das opções de 'match' difere do tipo da expressão passada para Match
+11. teval Call (NotFunc): Você está tentando chamar algo que não é uma função.
+12. Plc Checker (ListOutOfRange): Tentativa de acessar um elemento fora dos limites da lista.
+13. Tentativa de acessar um elemento em uma expressão que não é uma lista.
+14. Plc Interp (HDEmptySeq): argumento para 'hd' é uma sequência vazia.
+15. Plc Interp (TLEmptySeq): argumento para 'tl' é uma sequência vazia.
+16. Plc Interp (ValueNotFoundInMatch): valor não encontrado em 'match'.
+1. (SymbolNotFound): símbolo não permitido ou não encontrado.
+2. Plc Checker (CallTypesMisM): Type mismatch in function call.
+3. Plc Checker (NotEqTypes): Os tipos comparados são diferentes.
+4. Plc Checker (NotEqTypes): Os tipos comparados são diferentes.
+5. Plc Checker (WrongRetType): Tipo de retorno incorreto para função definida.
+6. Plc Checker (DiffBrTypes): Os tipos da expressões dos possíveis caminhos de 'if' divergem.
+7. Plc Checker (IfCondNotBool): A condição de 'if' não é booleana.
+8. Plc Checker (NoMatchResults): Não há resultados definidos para 'match'.
+9. Plc Checker (MatchResTypesDiff): Pelo menos um dos tipos dos casos de 'match' difere dos demais.
+10. Plc Checker (MatchCondTypesDiff): O tipo das opções de 'match' difere do tipo da expressão passada para Match
+11. teval Call (NotFunc): Você está tentando chamar algo que não é uma função.
+12. Plc Checker (ListOutOfRange): Tentativa de acessar um elemento fora dos limites da lista.
+13. Tentativa de acessar um elemento em uma expressão que não é uma lista.
+14. Plc Interp (HDEmptySeq): argumento para 'hd' é uma sequência vazia.
+15. Plc Interp (TLEmptySeq): argumento para 'tl' é uma sequência vazia.
+16. Plc Interp (ValueNotFoundInMatch): valor não encontrado em 'match'.
